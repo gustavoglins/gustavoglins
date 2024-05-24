@@ -4,8 +4,11 @@
 - 🌱 I’m currently learning Java
 - 📩 Contact me at email: gustavoguimaraes.241025@gmail.com
 
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoglins&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoglins&show_icons=true&theme=dark)](https://github.com/gustavoglins/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
