@@ -1,7 +1,7 @@
 ## Hello world! I'm Gustavo Guimarães Lins
 
 - 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently deepening my knowledge in Java
 - 📩 Contact me at email: gustavoguimaraes.241025@gmail.com
 
 <br>
