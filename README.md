@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="![coding_8427055](https://github.com/user-attachments/assets/6225c459-1c5c-47bf-9504-d12d9febdb59)">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="(https://github.com/user-attachments/assets/6225c459-1c5c-47bf-9504-d12d9febdb59)">
 
 <h1>
     <a href="gustavo-portifolio.com">
