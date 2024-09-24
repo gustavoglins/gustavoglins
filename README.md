@@ -2,7 +2,7 @@
 
 <h1>
     <a href="gustavo-portifolio.com">
-     <img align="center" alt="Logo" width="36px" src="https://github.com/user-attachments/assets/6225c459-1c5c-47bf-9504-d12d9febdb59"></a>
+     <img align="center" alt="Logo" width="36px" src="https://github.com/user-attachments/assets/c28102a5-1cfe-4d7c-867c-6f98ccce7aed"></a>
     <span>Gustavo Guimarães Lins</span>
 </h1>
 
