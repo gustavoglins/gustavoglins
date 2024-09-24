@@ -1,12 +1,8 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="(https://github.com/user-attachments/assets/6225c459-1c5c-47bf-9504-d12d9febdb59)">
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/6225c459-1c5c-47bf-9504-d12d9febdb59" width="700px" />
-</div>
-
 <h1>
     <a href="gustavo-portifolio.com">
-     <img align="center" alt="Logo" width="36px" src=""></a>
+     <img align="center" alt="Logo" width="36px" src="https://github.com/user-attachments/assets/6225c459-1c5c-47bf-9504-d12d9febdb59"></a>
     <span>Gustavo Guimarães Lins</span>
 </h1>
 
