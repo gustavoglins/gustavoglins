@@ -13,9 +13,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoGLins&theme=ambient_gradient&bg_color=FFF&border_color=blue&show_icons=true&icon_color=blue&title_color=blue&text_color=000&)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavoglins&repo=personal-finances&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=blue&title_color=blue&text_color=blue)](https://github.com/gustavoglins/personal-finances)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafa-Js" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg">
-</div>
