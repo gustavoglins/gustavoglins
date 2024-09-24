@@ -13,7 +13,11 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoGLins&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavoglins&repo=personal-finances&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/gustavoglins/personal-finances)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=black-ice&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
