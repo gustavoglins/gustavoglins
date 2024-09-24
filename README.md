@@ -13,5 +13,3 @@ I'm a Software Engineering Student
 ## GitHub Stats and Repo
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoGLins&theme=default&bg_color=FFF&border_color=blue&show_icons=true&icon_color=blue&title_color=blue&text_color=000&)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavoglins&repo=personal-finances&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=blue&title_color=blue&text_color=blue)](https://github.com/gustavoglins/personal-finances)
