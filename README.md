@@ -43,7 +43,7 @@
 
 #
 
-<h3 align="center" style="font-size:20px;">
+<h3 align="center">
   <strong>⚡ Stats ⚡</strong>
 </h3>
 
