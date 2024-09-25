@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=gustavoglins.visitor-badge&left_color=white&right_color=blue)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <h1>
     <a href="gustavo-portifolio.com">
