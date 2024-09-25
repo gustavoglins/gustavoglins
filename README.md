@@ -1,12 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Gustavo+Guimarães+Lins;" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Gustavo+Guimarães+Lins!;" />
 </h1>
 
-<h3 align="left">A software engineering student from Brazil 🇧🇷</h3>
+<h3 align="center">A software engineering student from Brazil 🇧🇷</h3>
 
-<div align="left">
+<br/>
+
+<div align="center">
  
  🔭 I’m currently working on **EcommerceAPI** feel free to contribute
  
@@ -14,7 +16,17 @@
 
  </div>
  
- [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3CAEEB)](https://www.instagram.com/1gustavolins/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3CAEEB)](https://www.linkedin.com/in/gustavoglins/) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=3CAEEB)](https://seulink.com)
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
  <hr/>
  
