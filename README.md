@@ -30,9 +30,8 @@
   </a>
 </div>
 
- <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql,mongodb"/>
@@ -42,7 +41,6 @@
 </div>
 
 <br/>
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
