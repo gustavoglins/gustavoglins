@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/gustavoglins/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3CAEEB" target="_blank" />
   </a>
-  <a href="https://gustavoglins.github.io" target="_blank">
+  <a href="https://gustavoglins.github.io/glinsportfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=3CAEEB" target="_blank" />
   </a>
 </div>
