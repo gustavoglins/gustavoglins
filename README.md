@@ -1,14 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gustavoglins.gustavoglins"/>
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Gustavo+Guimarães+Lins;"/>
 </h1>
 
-<h3 align="center">Junior Backend Developer</h3>
+<h3 align="left">Junior Backend Developer</h3>
 
 <br>
 
-<div align="center">
+<div align="left">
  🔭 Currently working on EcommerceAPI feel free to contribute 
  
  🌱 Currently learning Unit Tests, Docker and AWS
@@ -16,7 +16,7 @@
 
 <br>
  
-<div align="center"> 
+<div align="left"> 
     <a href="https://www.instagram.com/1gustavolins/">
         <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=3CAEEB"/>
   </a>
@@ -30,11 +30,11 @@
 
 #
 
-<h3 align="center" style="font-size:20px;">
+<h3 align="left" style="font-size:20px;">
   <strong>⚒️ Languages-Frameworks-Tools ⚒️</strong>
 </h3>
 
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql,mongodb"/>
     <br>
     <img src="https://skillicons.dev/icons?i=html,css,idea,eclipse,vscode,git,github"/>
@@ -43,10 +43,10 @@
 
 #
 
-<h3 align="center">
+<h3 align="left">
   <strong>⚡ Stats ⚡</strong>
 </h3>
 
-<div align=center>
+<div align=left>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=gustavoglins&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&bg_color=000&title_color=FFF&text_color=FFF&icon_color=3CAEEB&border_color=3CAEEB&hide_title=true" alt="readme stats"/>
 </div>
