@@ -14,9 +14,7 @@
 
  </div>
  
-<div align="center"> 
-  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3CAEEB)](https://www.instagram.com/1gustavolins/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3CAEEB)](https://www.linkedin.com/in/gustavoglins/) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=3CAEEB)](https://seulink.com)
-</div>
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3CAEEB)](https://www.instagram.com/1gustavolins/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3CAEEB)](https://www.linkedin.com/in/gustavoglins/) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=3CAEEB)](https://seulink.com)
 
  <hr/>
  
