@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Gustavo+Guimarães+Lins;"/>
 </h1>
 
-<h3 align="center">Junior Backend Developer</h3>
+### Junior Backend Developer
 
 <br>
 
@@ -30,9 +30,8 @@
 
 #
 
-<h3 align="center" style="font-size:20px;">
-  <strong>⚒️ Languages-Frameworks-Tools ⚒️</strong>
-</h3>
+
+## ⚒️ Languages-Frameworks-Tools ⚒️
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql,mongodb"/>
@@ -43,9 +42,7 @@
 
 #
 
-<h3 align="center">
-  <strong>⚡ Stats ⚡</strong>
-</h3>
+## ⚡ Stats ⚡
 
 <div align=center>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=gustavoglins&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&bg_color=000&title_color=FFF&text_color=FFF&icon_color=3CAEEB&border_color=3CAEEB&hide_title=true" alt="readme stats"/>
