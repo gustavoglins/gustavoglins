@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gustavoglins.gustavoglins" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gustavoglins.gustavoglins"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Gustavo+Guimarães+Lins!;" />
@@ -18,7 +18,7 @@
  
 <div align="center"> 
     <a href="https://www.instagram.com/1gustavolins/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=3CAEEB"/>
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
