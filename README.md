@@ -47,7 +47,8 @@
   <strong>⚡ Stats ⚡</strong>
 </h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 <div align=center>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=gustavoglins&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
 </div>
