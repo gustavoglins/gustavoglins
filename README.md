@@ -9,9 +9,7 @@
 <br>
 
 <div align="center">
- 🔭 I’m currently working on EcommerceAPI feel free to contribute
- 
- 🌱 I’m currently learning Unit Tests, Docker and AWS
+ 🔭 Currently working on EcommerceAPI feel free to contribute and learning Unit Tests, Docker and AWS
 </div>
 
 <br>
