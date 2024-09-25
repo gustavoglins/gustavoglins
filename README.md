@@ -1,8 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=3CAEEB&center=true&vCenter=true&width=435&lines=Gustavo+Guimar%C3%A3es+Lins)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4000&pause=1000&color=3CAEEB&center=true&vCenter=true&width=435&lines=Gustavo+Guimar%C3%A3es+Lins)](https://git.io/typing-svg)
 
 #
 
-<p>Description<p/>
+<h3 align="center">A software engineering student from Brazil 🇧🇷</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **EcommerceAPI** feel free to contribute
+ 
+ 🌱 I’m currently learning **Tests, Docker and AWS**
+
+ </div>
 
 # 
 
