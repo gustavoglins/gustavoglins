@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Gustavo+Guimarães+Lins;"/>
 </h1>
 
-<h3 align="center">A software engineering student from Brazil 🇧🇷</h3>
+<h3 align="center">Junior Backend Developer</h3>
 
 <br>
 
