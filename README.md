@@ -1,5 +1,3 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=gustavoglins)
-
 <h1>
     <a href="gustavo-portifolio.com">
     <span>Gustavo Guimarães Lins</span>
