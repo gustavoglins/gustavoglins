@@ -6,17 +6,17 @@
 
 <h3 align="center">A software engineering student from Brazil 🇧🇷</h3>
 
-<br/>
-
 <div align="center">
- 
  🔭 I’m currently working on **EcommerceAPI** feel free to contribute
  
  🌱 I’m currently learning **Unit Tests, Docker and AWS**
+</div>
 
- </div>
+<br>
 
- <br>
+#
+
+<br>
  
 <div align="center"> 
     <a href="https://www.instagram.com/1gustavolins/">
@@ -30,9 +30,16 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br>
 
-<br/>
+#
+
+<br>
+
+<p align="center" style="font-size:20px;">
+  <strong>⚒️ Languages-Frameworks-Tools ⚒️</strong>
+</p>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql,mongodb"/>
     <br>
@@ -40,17 +47,20 @@
     <br>
 </div>
 
-<br/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+#
+
+<br>
+
+<p align="center" style="font-size:20px;">
+  <strong>⚡ Stats ⚡</strong>
+</p>
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gustavoglins&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=gustavoglins&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
+
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gustavoglins&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
-<hr/>
