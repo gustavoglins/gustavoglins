@@ -30,9 +30,9 @@
 
 #
 
-<p align="center" style="font-size:20px;">
+<h3 align="center" style="font-size:20px;">
   <strong>⚒️ Languages-Frameworks-Tools ⚒️</strong>
-</p>
+</h3>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql,mongodb"/>
@@ -43,9 +43,9 @@
 
 #
 
-<p align="center" style="font-size:20px;">
+<h3 align="center" style="font-size:20px;">
   <strong>⚡ Stats ⚡</strong>
-</p>
+</h3>
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gustavoglins&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
