@@ -12,11 +12,7 @@
  🌱 I’m currently learning **Unit Tests, Docker and AWS**
 </div>
 
-<br>
-
 #
-
-<br>
  
 <div align="center"> 
     <a href="https://www.instagram.com/1gustavolins/">
@@ -30,11 +26,7 @@
   </a>
 </div>
 
-<br>
-
 #
-
-<br>
 
 <p align="center" style="font-size:20px;">
   <strong>⚒️ Languages-Frameworks-Tools ⚒️</strong>
@@ -47,11 +39,7 @@
     <br>
 </div>
 
-<br>
-
 #
-
-<br>
 
 <p align="center" style="font-size:20px;">
   <strong>⚡ Stats ⚡</strong>
