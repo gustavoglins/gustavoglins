@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
- 🔭 Currently working on EcommerceAPI feel free to contribute 
+ 🔭 Currently working on StockFlow-API feel free to contribute 
  <br>
  🌱 Currently learning Docker and AWS
 </div>
