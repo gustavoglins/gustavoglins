@@ -10,6 +10,8 @@
  🔭 Currently working on StockFlow-API feel free to contribute 
  <br>
  🌱 Currently learning Docker and AWS
+<br>
+📩 Contact me at gustavoguimaraes.241025@gmail.com
 </div>
 
 <br>
