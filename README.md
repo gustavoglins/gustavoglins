@@ -35,9 +35,9 @@
 </h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,angular"/>
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,angular"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,typescript,postgresql,mysql,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql,mongodb"/>
     <br>
 </div>
 
