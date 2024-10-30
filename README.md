@@ -9,7 +9,7 @@
 <div align="center">
  🔭 Currently working on StockFlow-API feel free to contribute 
  <br>
- 🌱 Currently learning Docker and AWS
+ 🌱 Currently learning Angular
 <br>
 📩 Contact me at gustavoguimaraes.241025@gmail.com
 </div>
