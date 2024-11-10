@@ -11,7 +11,7 @@
  <br>
  🌱 Currently learning Angular
 <br>
-📩 Contact me at gustavoguimaraes.241025@gmail.com
+📩 Contact me at gustavoglins05@gmail.com
 </div>
 
 <br>
