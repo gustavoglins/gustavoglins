@@ -2,12 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Gustavo+Guimarães+Lins;"/>
 </h1>
 
-<h3 align="center">Junior Backend Developer</h3>
+<h3 align="center">Junior Full Stack Developer</h3>
 
 <br>
 
 <div align="center">
- 🔭 Currently working on StockFlow feel free to contribute 
+ 🔭 Currently working on Festivo feel free to contribute 
  <br>
  🌱 Currently learning Angular
 <br>
