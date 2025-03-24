@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
- 🔭 Currently working on Festivo feel free to contribute 
+ 🔭 Currently working on Festivo
  <br>
  🌱 Currently learning Angular
 <br>
