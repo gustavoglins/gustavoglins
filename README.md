@@ -7,9 +7,9 @@
 <br>
 
 <div align="center">
- 🔭 Currently working on Festivo
+ 🔭 Open to Work
  <br>
- 🌱 Currently learning Angular
+ 🌱 Currently learning React
 <br>
 📩 Contact me at gustavoglins05@gmail.com
 </div>
@@ -19,13 +19,13 @@
 <div align="center"> 
     <a href="https://www.instagram.com/1gustavolins/">
         <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=3CAEEB"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gustavoglins/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3CAEEB" target="_blank" />
-  </a>
-  <a href="https://gustavoglins.github.io/glinsportfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=3CAEEB" target="_blank" />
-  </a>
+    </a>
+    <a href="https://www.linkedin.com/in/gustavoglins/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3CAEEB" target="_blank" />
+    </a>
+    <a href="https://gustavoglins.github.io/glinsportfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=3CAEEB" target="_blank" />
+    </a>
 </div>
 
 #
