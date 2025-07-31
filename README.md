@@ -30,19 +30,6 @@
 
 #
 
-<h3 align="center" style="font-size:20px;">
-  <strong>⚒️ Languages-Frameworks-Tools ⚒️</strong>
-</h3>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,angular,python"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql,mongodb"/>
-    <br>
-</div>
-
-#
-
 <h3 align="center">
   <strong>⚡ Stats ⚡</strong>
 </h3>
