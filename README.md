@@ -37,8 +37,3 @@
 <div align=center>
     <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=gustavoglins&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&bg_color=000&title_color=FFF&text_color=FFF&icon_color=3CAEEB&border_color=3CAEEB&hide_title=true" alt="readme stats"/>
 </div>
-    
-<br>
-<div align=center>
-    <p>Most of my commits were made in private repositories.</p>
-</div>
