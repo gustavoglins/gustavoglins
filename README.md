@@ -9,7 +9,7 @@
 <div align="center">
  🔭 Open to Work
  <br>
- 🌱 Currently learning React
+ 🌱 Currently developing Chama Aí
 <br>
 📩 Contact me at gustavoglins05@gmail.com
 </div>
