@@ -9,7 +9,7 @@
 <div align="center">
  🔭 Open to Work
  <br>
- 🌱 Currently developing Reservo
+ 🌱 Currently developing reservo.site
 <br>
 📩 Contact me at gustavoglins05@gmail.com
 </div>
