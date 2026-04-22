@@ -7,7 +7,6 @@
 <br>
 
 <div align="center">
- 🔭 Open to Work
  <br>
  🌱 Coding...
 <br>
